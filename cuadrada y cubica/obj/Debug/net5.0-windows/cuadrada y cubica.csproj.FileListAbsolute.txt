@@ -1,0 +1,36 @@
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\bin\Debug\net5.0-windows\cuadrada y cubica.exe
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\bin\Debug\net5.0-windows\cuadrada y cubica.deps.json
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\bin\Debug\net5.0-windows\cuadrada y cubica.runtimeconfig.json
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\bin\Debug\net5.0-windows\cuadrada y cubica.runtimeconfig.dev.json
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\bin\Debug\net5.0-windows\cuadrada y cubica.dll
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\bin\Debug\net5.0-windows\ref\cuadrada y cubica.dll
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\bin\Debug\net5.0-windows\cuadrada y cubica.pdb
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.csproj.AssemblyReference.cache
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada_y_cubica.Form1.resources
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.csproj.GenerateResource.cache
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.GeneratedMSBuildEditorConfig.editorconfig
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.AssemblyInfoInputs.cache
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.AssemblyInfo.cs
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.csproj.CoreCompileInputs.cache
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.dll
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\ref\cuadrada y cubica.dll
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.pdb
+F:\mximo}\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.genruntimeconfig.cache
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\bin\Debug\net5.0-windows\cuadrada y cubica.exe
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\bin\Debug\net5.0-windows\cuadrada y cubica.deps.json
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\bin\Debug\net5.0-windows\cuadrada y cubica.runtimeconfig.json
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\bin\Debug\net5.0-windows\cuadrada y cubica.runtimeconfig.dev.json
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\bin\Debug\net5.0-windows\cuadrada y cubica.dll
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\bin\Debug\net5.0-windows\cuadrada y cubica.pdb
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.csproj.AssemblyReference.cache
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada_y_cubica.Form1.resources
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.csproj.GenerateResource.cache
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.AssemblyInfoInputs.cache
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.AssemblyInfo.cs
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.csproj.CoreCompileInputs.cache
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.dll
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\refint\cuadrada y cubica.dll
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.pdb
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\cuadrada y cubica.genruntimeconfig.cache
+D:\Otro\BACKUP\Maximo\C#\APP C#\cuadrada y cubica\cuadrada y cubica\obj\Debug\net5.0-windows\ref\cuadrada y cubica.dll
